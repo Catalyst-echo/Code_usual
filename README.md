@@ -16,3 +16,6 @@ Thank you for your attention and use!
 **Code Repository Maintainer Contact:** 2922377320@qq.com
 
 # Come form： haojie chen
+
+# Translate
+* 【CN】[中文版本](https://github.com/ecahagain/Code_usual/blob/main/README_CN.md)
