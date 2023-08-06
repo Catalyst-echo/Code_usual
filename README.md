@@ -59,3 +59,6 @@ Implemented in Python, this program utilizes **multi-core programming** to calcu
 This README.md file is modified and adapted from my academic paper.
 
 If you intend to cite or modify it, please be sure to provide proper attribution.
+
+# Translate
+* 【CN】[中文文档](https://github.com/ecahagain/Code_usual/blob/Paper/README_CN.md)
