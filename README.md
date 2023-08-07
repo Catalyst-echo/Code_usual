@@ -18,7 +18,7 @@ Thank you for your attention and use!
 # Code_usual 's structure
 
 Library name: *Code_usual*
-## branches 's meanings
+branches 's meanings as follows:
 1. usual homework  
 2. paper by myself 
 3. Great ideas.
