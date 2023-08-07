@@ -29,8 +29,7 @@ respectively in  bin folders \<Usl>, \<Paper>, and \<ideas> .
 # Form： haojie chen
 
 
-# Translate
-* 【CN】[中文版本](https://github.com/ecahagain/Code_usual/blob/main/README_CN.md)
+
 
 Other Version
 ---------------
