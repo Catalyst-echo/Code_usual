@@ -15,8 +15,32 @@ Thank you for your attention and use!
 
 **Code Repository Maintainer Contact:** 2922377320@qq.com
 
+# Code_usual 's structure
+
+Library name: *Code_usual*
+## branches 's meanings
+1. usual homework  
+2. paper by myself 
+3. Great ideas.
+
+respectively in  bin folders \<Usl>, \<Paper>, and \<ideas> .
+
+
 # Form： haojie chen
+
 
 # Translate
 * 【CN】[中文版本](https://github.com/ecahagain/Code_usual/blob/main/README_CN.md)
 
+Other Version
+---------------
+
+Ports
+- [**Catalyst-echo**](https://github.com/Catalyst-echo) by @Catalyst-echo
+
+Translation
+- [CN 中文文档](https://github.com/Catalyst-echo/Code_usual/blob/Paper/README_CN.md).
+
+License
+-------
+License: **GNU-GPL v3.0** , modifications to the library must be open source.
