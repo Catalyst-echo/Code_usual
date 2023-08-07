@@ -10,6 +10,10 @@ If you use any part or all of the code from this code repository, please make su
 
 Thank you for your attention and use!
 
+# Translate
+* 【CN】[中文版本](https://github.com/ecahagain/Code_usual/blob/main/README_CN.md)
+
+  
 **Code Repository Name:** [Paper]
 >Primary repository for personal projects.
 
@@ -17,5 +21,4 @@ Thank you for your attention and use!
 
 # Come form： haojie chen
 
-# Translate
-* 【CN】[中文版本](https://github.com/ecahagain/Code_usual/blob/main/README_CN.md)
+
