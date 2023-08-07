@@ -60,5 +60,8 @@ This README.md file is modified and adapted from my academic paper.
 
 If you intend to cite or modify it, please be sure to provide proper attribution.
 
+copyright（C）<2023><haojie chen>
+
+
 # Translate
 * 【CN】[中文文档](https://github.com/ecahagain/Code_usual/blob/Paper/evalue_2023.8.6/README_CN.md)
