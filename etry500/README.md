@@ -15,7 +15,9 @@ The main idea of the code is as follows:
 
 The mathematical idea behind the code is to utilize the series expansion of e:
 
-\[e = \sum_{n=0}^{\infty} \frac{1}{n!} = 1 + \frac{1}{1!} + \frac{1}{2!} + \frac{1}{3!} + \dotsb\]
+
+$e = \sum_{n=0}^{\infty} \frac{1}{n!} = 1 + \frac{1}{1!} + \frac{1}{2!} + \frac{1}{3!} + \dotsb$
+
 
 # Notice
 1. shell is wirtten by bash , used in HPC
