@@ -1,5 +1,3 @@
-[haojie Chen](https://ecahagain.github.io/https://huangxuan.me)
-================================
 
 # Code_usual
 
@@ -20,8 +18,7 @@ Other Version
 ---------------
 
 Ports
-- [**echoagain**](https://github.com/dashboard) by @echoagain
-
+- [**echoagain**](https://github.com/dashboard) by @Catalyst-echo
 
 Translation
 - [CN 中文文档](https://github.com/ecahagain/Code_usual/blob/main/README_CN.md).你可以在这里查看中文版本。
