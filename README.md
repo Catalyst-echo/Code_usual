@@ -10,9 +10,6 @@ If you use any part or all of the code from this code repository, please make su
 
 Thank you for your attention and use!
 
-**Code Repository Name:** [Paper]
->Primary repository for personal projects.
-
 **Code Repository Maintainer Contact:** 2922377320@qq.com
 
 # Code_usual 's structure
