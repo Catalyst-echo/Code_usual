@@ -1,4 +1,6 @@
-This code is used to calculate the approximate value of the mathematical constant e. It utilizes a recursive function `fact(n)` to calculate the factorial of a given number n.
+Apologies for the confusion. Here's the translation with the LaTeX formula:
+
+The provided code is used to calculate the approximate value of the mathematical constant e. It utilizes a recursive function `fact(n)` to calculate the factorial of a given number n.
 
 The main idea of the code is as follows:
 1. Import the `Decimal` class to handle high precision calculations.
@@ -11,9 +13,9 @@ The main idea of the code is as follows:
 8. Otherwise, add the current term to `e` and increment the value of n by 1.
 9. Finally, output `e`, which represents the approximate value of the mathematical constant e.
 
-The mathematical idea behind the code is to utilize the series expansion of e, which is 1 + 1/1! + 1/2! + 1/3! + .... By incrementally calculating each term and checking if it meets the desired precision, we can obtain an approximation of e.
+The mathematical idea behind the code is to utilize the series expansion of e:
 
-Please note that the translation is based on my expertise and understanding.
+\[e = \sum_{n=0}^{\infty} \frac{1}{n!} = 1 + \frac{1}{1!} + \frac{1}{2!} + \frac{1}{3!} + \dotsb\]
 
 # Notice
 1. shell is wirtten by bash , used in HPC
