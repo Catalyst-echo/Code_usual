@@ -64,4 +64,4 @@ copyright（C）<2023><haojie chen>
 
 
 # Translate
-* 【CN】[中文文档](https://github.com/ecahagain/Code_usual/blob/Paper/evalue_2023.8.6/README_CN.md)
+* 【CN】[中文](https://github.com/ecahagain/Code_usual/blob/Paper/evalue_2023.8.6/README_CN.md)
