@@ -1,4 +1,4 @@
->NOTICE:`.sh` is a file can running in HPC
+>NOTICE:`.sh` is a file can run in HPC
 
 ### Project Name: Random Password Generator
 
