@@ -34,8 +34,6 @@ Other Version
 Ports
 - [**Catalyst-echo**](https://github.com/Catalyst-echo) by @Catalyst-echo
 
-Translation
-- [CN 中文文档](https://github.com/Catalyst-echo/Code_usual/blob/Paper/README_CN.md).
 
 License
 -------
