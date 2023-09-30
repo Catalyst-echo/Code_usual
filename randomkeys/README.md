@@ -20,12 +20,12 @@ like `<you get keywords in computer>`+"112012",so you get `<you get keywords in 
 
 you can change the number behind `length` to change keys you wanted.
 
-## Common Password Types
-### Here are the corresponding constants in Python's string module for common password types:
-### Letters (random upper and lower case): string.ascii_letters
-### Special characters: string.punctuation
-### Uppercase letters: string.ascii_uppercase
-### Lowercase letters: string.ascii_lowercase
-### Numbers: string.digits
-### Whitespace characters: string.whitespace (includes spaces, tabs, newlines, and other whitespace characters)
-### Unicode characters: string.printable (includes all ASCII characters that are printable)
+## Common Password Types:
+Here are the corresponding constants in Python's string module for common password types:
+- Letters (random upper and lower case): string.ascii_letters
+- Special characters: string.punctuation
+- Uppercase letters: string.ascii_uppercase
+- Lowercase letters: string.ascii_lowercase
+- Numbers: string.digits
+- Whitespace characters: string.whitespace (includes spaces, tabs, newlines, and other whitespace characters)
+- Unicode characters: string.printable (includes all ASCII characters that are printable)
