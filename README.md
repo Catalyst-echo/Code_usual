@@ -25,12 +25,6 @@ respectively in  bin folders \<Usl>, \<Paper>, and \<ideas> .
 
 # Form： haojie chen
 
-
-
-
-Other Version
----------------
-
 Ports
 - [**Catalyst-echo**](https://github.com/Catalyst-echo) by @Catalyst-echo
 
